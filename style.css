@@ -1,0 +1,12 @@
+.bi-bootstrap-fill{
+  color: #6f42c1;
+  font-size: 4rem;
+}
+
+footer ul li{
+  display: inline-block;
+}
+
+footer ul li a{
+  text-decoration: none;
+}
